@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AuthService/AuthService.csproj" />
+  <Project Path="GatewayApi/GatewayApi.csproj" />
+  <Project Path="ReservationService/ReservationService.csproj" />
+</Solution>
